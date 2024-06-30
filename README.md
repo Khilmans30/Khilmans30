@@ -3,7 +3,9 @@
 - 🌱 Technical Toolkit
 Here's a snapshot of the tools and technologies I've mastered :
 •	Programming Languages: Python, SQL
+
 •	Data Science Libraries: NumPy and Pandas
+
 •	Data Visualization Tools: Matplotlib, Seaborn, Plotly, Looker Studio (Data Studio)
 •	Data Analysis Techniques: Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis
 •	Database Management Systems: MySQL, PostgreSQL,
